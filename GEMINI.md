@@ -16,6 +16,10 @@ Tài liệu này định nghĩa quy trình tương tác và các **QUY TẮC C�
     *   `REVABOOK_TEAM_WORKFLOW.md` (Xác định rõ task này thuộc về Frontend, Backend hay AI Engine).
     *   `REVABOOK_MODELING.md` và `REVABOOK_FEATURE_MAP.md`.
 5.  **GHI LOG BẮT BUỘC:** Mọi thay đổi lớn về code, kiến trúc hoặc chốt tính năng đều **phải** được ghi nhận vào file `AI_LOG.md`.
+6.  **TỰ KIỂM THỬ TRƯỚC KHI BÀN GIAO (Mandatory Self-Testing):** Trước khi trả kết quả cuối cùng ở Bước 5, AI **bắt buộc** phải thực hiện (và báo cáo kết quả) các bước sau:
+    *   Chạy lệnh build/biên dịch (VD: `flutter build web` hoặc `uvicorn app.main:app` check khởi tạo).
+    *   Kiểm tra lỗi logic (Edge cases) dựa trên yêu cầu.
+    *   Chỉ bàn giao khi xác nhận mã nguồn không có lỗi đỏ (Error-free).
 
 ---
 

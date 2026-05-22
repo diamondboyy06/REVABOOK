@@ -78,3 +78,14 @@ Tài liệu này định nghĩa chi tiết các tính năng của hệ thống, 
 *   **Cấu hình Hệ thống (System Config):**
     *   Quản lý API Keys của các dịch vụ bên thứ 3 (ElevenLabs, OpenAI, Stripe, v.v.).
     *   Điều chỉnh cấu hình AI (Ví dụ: Chuyển đổi Model AI để tiết kiệm chi phí).
+
+
+
+
+
+
+
+
+
+
+fheuhuehuehufe

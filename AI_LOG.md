@@ -19,3 +19,11 @@
 | 2026-05-22 22:55:08 | Tinh chỉnh Log | Cập nhật định dạng thời gian trong `AI_LOG.md` để bao gồm cả giờ, phút, giây nhằm tăng cường độ chính xác khi tracking. |
 | 2026-05-22 22:59:41 | Thiết lập Báo cáo | Tạo file `REVABOOK_REPORTING_GUIDELINES.md` quy định biểu mẫu báo cáo bắt buộc cho từng vai trò trong team. |
 | 2026-05-22 23:05:00 | Đồng bộ Tên dự án | Chạy script đồng bộ đổi toàn bộ chữ "Vocobook" thành "REVABOOK" trên cả tên file và nội dung tất cả các file. |
+| 2026-05-22 23:10:00 | Bắt đầu Sprint 1 | Khởi tạo cấu trúc thư mục Backend, thiết lập FastAPI và Database Models (User, Book). |
+| 2026-05-22 23:40:00 | Hoàn thành Backend Sprint 1 | Triển khai xong Auth (JWT), Book CRUD, và tài liệu hướng dẫn chạy API. |
+| 2026-05-22 23:58:00 | Khởi tạo Mobile Sprint 1 | Thiết lập cấu trúc thư mục Flutter, tạo UI Login và Home, chuẩn bị kết nối Backend. |
+| 2026-05-23 00:15:00 | Hoàn thành Mobile Logic | Triển khai Book Model, AuthService, BookService và kết nối dữ liệu cho các màn hình UI. |
+| 2026-05-23 00:25:00 | Bắt đầu Backend Sprint 2 | Triển khai Schema/Model/CRUD cho Chapters và System Tasks. Chuẩn bị cho xử lý AI. |
+| 2026-05-23 00:45:00 | Hoàn thành Sprint 3 | Backend: Triển khai AI Worker (Dịch thuật/TTS giả lập). Mobile: Hoàn thiện Trình phát sách (Reading Screen). |
+| 2026-05-23 01:15:00 | Hoàn thành Sprint 5 | Refactor luồng Guest: Vào Home mặc định, nút Login/Account động, kiểm soát quyền truy cập tính năng mua/thanh toán. |
+| 2026-05-23 01:30:00 | Cập nhật Strict Rules | Thêm Quy tắc số 6 trong `GEMINI.md`: Bắt buộc AI tự kiểm thử (Build/Logic) trước khi bàn giao kết quả cuối cùng. |
