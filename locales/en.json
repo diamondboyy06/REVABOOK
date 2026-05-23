@@ -1,0 +1,19 @@
+{
+  "app_name": "REVABOOK",
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password"
+  },
+  "home": {
+    "search": "Search books, authors...",
+    "categories": "Categories",
+    "recommended": "Recommended for you"
+  },
+  "player": {
+    "speed": "Speed",
+    "chapters": "Chapters",
+    "report_error": "Report Error"
+  }
+}

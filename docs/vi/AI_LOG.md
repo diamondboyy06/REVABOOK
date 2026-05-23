@@ -27,3 +27,4 @@
 | 2026-05-23 00:45:00 | Hoàn thành Sprint 3 | Backend: Triển khai AI Worker (Dịch thuật/TTS giả lập). Mobile: Hoàn thiện Trình phát sách (Reading Screen). |
 | 2026-05-23 01:15:00 | Hoàn thành Sprint 5 | Refactor luồng Guest: Vào Home mặc định, nút Login/Account động, kiểm soát quyền truy cập tính năng mua/thanh toán. |
 | 2026-05-23 01:30:00 | Cập nhật Strict Rules | Thêm Quy tắc số 6 trong `GEMINI.md`: Bắt buộc AI tự kiểm thử (Build/Logic) trước khi bàn giao kết quả cuối cùng. |
+| 2026-05-23 12:15:00 | Đa ngôn ngữ hóa (Localization) | Triển khai cấu trúc thư mục `docs/vi`, `en`, `zh` và `locales/`. Dịch thuật các tài liệu cốt lõi (IDEA, FEATURE_MAP, DB_DESIGN) sang EN và ZH. |

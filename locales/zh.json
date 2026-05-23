@@ -1,0 +1,19 @@
+{
+  "app_name": "REVABOOK",
+  "auth": {
+    "login": "登录",
+    "register": "注册",
+    "email": "邮箱",
+    "password": "密码"
+  },
+  "home": {
+    "search": "搜索书籍、作者...",
+    "categories": "分类",
+    "recommended": "为你推荐"
+  },
+  "player": {
+    "speed": "速度",
+    "chapters": "章节",
+    "report_error": "报告错误"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "app_name": "REVABOOK",
+  "auth": {
+    "login": "Đăng nhập",
+    "register": "Đăng ký",
+    "email": "Email",
+    "password": "Mật khẩu"
+  },
+  "home": {
+    "search": "Tìm kiếm sách, tác giả...",
+    "categories": "Thể loại",
+    "recommended": "Gợi ý cho bạn"
+  },
+  "player": {
+    "speed": "Tốc độ",
+    "chapters": "Chương",
+    "report_error": "Báo lỗi"
+  }
+}
